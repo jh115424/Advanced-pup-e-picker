@@ -1,0 +1,12 @@
+.barName {
+  color: black;
+  font-weight: 600;
+  font-family: Playfair Display;
+  font-size: 24px;
+}
+
+.barName span {
+  color: #c45c3a;
+  font-family: Playfair Display;
+  font-size: 24px;
+}
